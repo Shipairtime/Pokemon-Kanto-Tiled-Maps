@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="44" height="40" tilewidth="32" tileheight="32" infinite="0" nextlayerid="7" nextobjectid="1">
- <tileset firstgid="1" source="../../Tilesets/Outside4 Winter.tsx"/>
+ <tileset firstgid="1" source="../../../Tilesets/Outside4 Winter.tsx"/>
  <layer id="2" name="Ground" width="44" height="40" locked="1">
   <data encoding="csv">
 245,243,243,244,244,246,246,246,244,244,243,246,245,244,245,242,245,245,245,245,245,244,242,244,242,242,244,245,245,245,245,246,246,246,242,243,246,244,245,244,246,243,245,245,

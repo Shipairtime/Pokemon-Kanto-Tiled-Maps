@@ -3,11 +3,19 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Kanto Routes/Kanto Route 010/Kanto Route 10 Spring.tmx",
+    "activeFile": "",
     "expandedProjectPaths": [
-        "Kanto Routes/Kanto Route 10",
+        "Kanto Routes/Kanto Route 003",
+        "Kanto Routes/Kanto Route 010",
+        "Kanto Routes/Kanto Route 004",
+        "Kanto Routes/Kanto Route 007",
         "Kanto Routes",
-        "."
+        "Kanto Routes/Kanto Route 10",
+        "Kanto Routes/Kanto Route 008",
+        ".",
+        "Kanto Routes/Kanto Route 005",
+        "Kanto Routes/Kanto Route 009",
+        "Kanto Routes/Kanto Route 006"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -107,6 +115,102 @@
             "viewCenter": {
                 "x": 620,
                 "y": 1060
+            }
+        },
+        "Kanto Routes/Kanto Route 001/Kanto Route 1 Autumn.tmx": {
+            "scale": 0.44902343749999996,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 703.7494562853415,
+                "y": 956.5202261852982
+            }
+        },
+        "Kanto Routes/Kanto Route 001/Kanto Route 1 Spring.tmx": {
+            "scale": 0.44902343749999996,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 703.7494562853415,
+                "y": 956.5202261852982
+            }
+        },
+        "Kanto Routes/Kanto Route 001/Kanto Route 1 Summer.tmx": {
+            "scale": 0.44902343749999996,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 703.7494562853415,
+                "y": 956.5202261852982
+            }
+        },
+        "Kanto Routes/Kanto Route 001/Kanto Route 1 Winter.tmx": {
+            "scale": 0.44902343749999996,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 703.7494562853415,
+                "y": 956.5202261852982
+            }
+        },
+        "Kanto Routes/Kanto Route 002/Kanto Route 2.tmx": {
+            "scale": 0.32990234375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 830.5488129773252,
+                "y": 1280.6820200106565
+            }
+        },
+        "Kanto Routes/Kanto Route 003/Kanto Route 3.tmx": {
+            "scale": 0.36614583333333334,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1439.3172119487906,
+                "y": 416.50071123755333
+            }
+        },
+        "Kanto Routes/Kanto Route 004/Kanto Route 4 Spring.tmx": {
+            "scale": 0.2792637711864407,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1887.1047889995257,
+                "y": 542.49786628734
+            }
+        },
+        "Kanto Routes/Kanto Route 005/Kanto Route 5 Spring.tmx": {
+            "scale": 0.6598046875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 768.4092120063939,
+                "y": 640.3410100053283
+            }
+        },
+        "Kanto Routes/Kanto Route 006/Kanto Route 6 Spring.tmx": {
+            "scale": 0.6437118902439024,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 703.7309809957967,
+                "y": 656.3495352554615
+            }
+        },
+        "Kanto Routes/Kanto Route 007/Kanto Route 7 Spring.tmx": {
+            "scale": 0.5615359042553192,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 448.7691670120182,
+                "y": 752.4006867562608
+            }
+        },
+        "Kanto Routes/Kanto Route 008/Kanto Route 8 Spring.tmx": {
+            "scale": 0.45141267123287665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1167.4461830251307,
+                "y": 831.833096254149
+            }
+        },
+        "Kanto Routes/Kanto Route 009/Kanto Route 9 Spring.tmx": {
+            "scale": 0.325829475308642,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1150.9087679829495,
+                "y": 1296.6905452607896
             }
         },
         "Kanto Routes/Kanto Route 010/Kanto Route 10 Spring.tmx": {
@@ -264,6 +368,15 @@
         "Tilesets/Outside1 Spring.tsx": {
             "scaleInDock": 1
         },
+        "Tilesets/Outside2 Summer.tsx": {
+            "scaleInDock": 1
+        },
+        "Tilesets/Outside3 Autumn.tsx": {
+            "scaleInDock": 1
+        },
+        "Tilesets/Outside4 Winter.tsx": {
+            "scaleInDock": 1
+        },
         "Vermilion City/Vermilion City Autumn.tmx": {
             "scale": 1,
             "selectedLayer": 3,
@@ -294,22 +407,21 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 30,
     "openFiles": [
-        "Kanto Routes/Kanto Route 010/Kanto Route 10 Spring.tmx"
     ],
     "project": "Pokemon.tiled-project",
     "recentFiles": [
         "Kanto Routes/Kanto Route 010/Kanto Route 10 Spring.tmx",
-        "Kanto Routes/Kanto Route 10/Kanto Route 10 Spring.tmx",
-        "Kanto Routes/Kanto Route 10 Spring.tmx",
-        "Kanto Routes/Kanto Route 9/Kanto Route 9 Spring.tmx",
-        "Kanto Routes/Kanto Route 8/Kanto Route 8 Spring.tmx",
-        "Kanto Routes/Kanto Route 9/Kanto Route 8 Spring.tmx",
-        "Kanto Routes/Kanto Route 7/Kanto Route 7 Spring.tmx",
-        "Kanto Routes/Kanto Route 6/Kanto Route 6 Spring.tmx",
-        "Kanto Routes/Kanto Route 5/Kanto Route 5 Spring.tmx",
-        "Kanto Routes/Kanto Route 4/Kanto Route 4 Spring.tmx",
-        "Kanto Routes/Kanto Route 3/Kanto Route 3.tmx",
-        "Kanto Routes/Kanto Route 2/Kanto Route 2.tmx"
+        "Kanto Routes/Kanto Route 009/Kanto Route 9 Spring.tmx",
+        "Kanto Routes/Kanto Route 008/Kanto Route 8 Spring.tmx",
+        "Kanto Routes/Kanto Route 007/Kanto Route 7 Spring.tmx",
+        "Kanto Routes/Kanto Route 006/Kanto Route 6 Spring.tmx",
+        "Kanto Routes/Kanto Route 005/Kanto Route 5 Spring.tmx",
+        "Kanto Routes/Kanto Route 004/Kanto Route 4 Spring.tmx",
+        "Kanto Routes/Kanto Route 003/Kanto Route 3.tmx",
+        "Kanto Routes/Kanto Route 002/Kanto Route 2.tmx",
+        "Kanto Routes/Kanto Route 001/Kanto Route 1 Winter.tmx",
+        "Kanto Routes/Kanto Route 001/Kanto Route 1 Summer.tmx",
+        "Kanto Routes/Kanto Route 001/Kanto Route 1 Spring.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)"
 }
