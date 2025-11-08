@@ -5,19 +5,30 @@
     },
     "activeFile": "",
     "expandedProjectPaths": [
+        "Kanto Routes/Kanto Route 10",
+        "Kanto Citites/Saffron City",
+        "Kanto Citites/Lavender Town",
+        "Kanto Citites/Pallet Town",
         "Kanto Routes/Kanto Route 008",
-        "Kanto Routes/Kanto Route 002",
-        "Kanto Routes",
-        "Kanto Routes/Kanto Route 003",
-        "Kanto Routes/Kanto Route 004",
-        "Kanto Routes/Kanto Route 010",
-        "Kanto Routes/Kanto Route 011",
-        "Kanto Routes/Kanto Route 005",
+        "Kanto Citites/Fuchsia City",
+        "Kanto Citites/Celadon City",
         "Kanto Routes/Kanto Route 007",
+        "Kanto Citites/Cinnabar Island",
+        "Kanto Routes/Kanto Route 003",
+        "Kanto Citites/Vermilion City",
+        "Kanto Routes/Kanto Route 006",
+        "Kanto Citites/Cerulean City",
+        "Kanto Routes/Kanto Route 005",
         "Kanto Routes/Kanto Route 009",
+        "Kanto Citites/Peweter City",
+        "Kanto Routes/Kanto Route 011",
+        "Kanto Routes/Kanto Route 004",
+        "Kanto Citites/Viridian City",
+        "Kanto Routes/Kanto Route 010",
         "Kanto Routes/Kanto Route 001",
-        ".",
-        "Kanto Routes/Kanto Route 10"
+        "Kanto Routes/Kanto Route 002",
+        "Kanto Citites/Indigo Plateau",
+        "Kanto Routes"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -63,6 +74,13 @@
                 "y": 235.5
             }
         },
+        "D:/MultiMedia/GitHub Pokemon Maps/Pokemon-Kanto-Tiled-Maps/Tilesets/Outside1 Spring.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "D:/MultiMedia/GitHub Pokemon Maps/Pokemon-Kanto-Tiled-Maps/Tilesets/Outside3 Autumn.tsx": {
+            "scaleInDock": 1
+        },
         "Fuchsia City/Fuchsia City Spring.tmx": {
             "scale": 0.4688151041666666,
             "selectedLayer": 8,
@@ -77,6 +95,110 @@
             "viewCenter": {
                 "x": 431.9400083321762,
                 "y": 319.7555895014582
+            }
+        },
+        "Kanto Citites/Celadon City/Celadon City Spring.tmx": {
+            "scale": 0.3454026442307692,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 961.1970421922575,
+                "y": 1243.4762940408875
+            }
+        },
+        "Kanto Citites/Cerulean City/Cerulean City Autumn.tmx": {
+            "scale": 0.44902343749999996,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 768.3340582862113,
+                "y": 956.5202261852982
+            }
+        },
+        "Kanto Citites/Cerulean City/Cerulean City Spring.tmx": {
+            "scale": 0.44902343749999996,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 768.3340582862113,
+                "y": 956.5202261852982
+            }
+        },
+        "Kanto Citites/Cinnabar Island/Cinnabar Island Spring.tmx": {
+            "scale": 0.6652199074074074,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 479.5406698564593,
+                "y": 645.6511526750761
+            }
+        },
+        "Kanto Citites/Fuchsia City/Fuchsia City Spring.tmx": {
+            "scale": 0.4380716463414634,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 766.997825141366,
+                "y": 980.4332318399305
+            }
+        },
+        "Kanto Citites/Indigo Plateau/Indigo Plateau Spring.tmx": {
+            "scale": 0.8980468749999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 432.04871683340593,
+                "y": 478.2601130926491
+            }
+        },
+        "Kanto Citites/Lavender Town/Lavender Town Spring.tmx": {
+            "scale": 0.8980468749999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 479.93040452370604,
+                "y": 478.2601130926491
+            }
+        },
+        "Kanto Citites/Pallet Town/Pallet Town Spring.tmx": {
+            "scale": 0.8980468749999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 575.6937799043063,
+                "y": 478.2601130926491
+            }
+        },
+        "Kanto Citites/Peweter City/Peweter City Spring.tmx": {
+            "scale": 0.39045516304347827,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 832.3618964767289,
+                "y": 1099.9982601130926
+            }
+        },
+        "Kanto Citites/Saffron City/Saffron City Spring.tmx": {
+            "scale": 0.3207310267857143,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1056.9604175728578,
+                "y": 1339.1283166594171
+            }
+        },
+        "Kanto Citites/Vermilion City/Vermilion City Autumn.tmx": {
+            "scale": 0.39913194444444444,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 846.8377555458894,
+                "y": 1076.08525445846
+            }
+        },
+        "Kanto Citites/Vermilion City/Vermilion City Spring.tmx": {
+            "scale": 0.39913194444444444,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 846.8377555458894,
+                "y": 1076.08525445846
+            }
+        },
+        "Kanto Citites/Viridian City/Viridian City Spring.tmx": {
+            "scale": 0.44902343749999996,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 799.5128316659418,
+                "y": 956.5202261852982
             }
         },
         "Kanto Route 1/Kanto Route 1 Autumn.tmx": {
@@ -131,7 +253,7 @@
             "scale": 0.44902343749999996,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 703.7494562853415,
+                "x": 703.7494562853416,
                 "y": 956.5202261852982
             }
         },
@@ -155,7 +277,7 @@
             "scale": 0.32990234375,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 830.5488129773252,
+                "x": 830.548812977325,
                 "y": 1280.6820200106565
             }
         },
@@ -179,7 +301,7 @@
             "scale": 0.6598046875,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 768.4092120063939,
+                "x": 768.409212006394,
                 "y": 640.3410100053283
             }
         },
@@ -227,8 +349,8 @@
             "scale": 0.75,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 377.33333333333326,
-                "y": 566
+                "x": 377.33333333333337,
+                "y": 565.9999999999999
             }
         },
         "Kanto Routes/Kanto Route 10 Spring.tmx": {
@@ -376,7 +498,9 @@
             }
         },
         "Tilesets/Outside1 Spring.tsx": {
-            "scaleInDock": 1
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Tilesets/Outside2 Summer.tsx": {
             "scaleInDock": 1
@@ -412,7 +536,7 @@
             }
         }
     },
-    "last.externalTilesetPath": "C:/Users/shipa/Desktop/Pokemon Tiled Maps/Pokemon-Tiled-Maps/Tilesets",
+    "last.externalTilesetPath": "D:/MultiMedia/GitHub Pokemon Maps/Pokemon-Kanto-Tiled-Maps/Tilesets",
     "map.height": 69,
     "map.lastUsedFormat": "tmx",
     "map.width": 72,
@@ -421,17 +545,17 @@
     "project": "Pokemon.tiled-project",
     "recentFiles": [
         "Kanto Routes/Kanto Route 011/Kanto Route 11 Spring.tmx",
-        "Kanto Routes/Kanto Route 002/Kanto Route 2.tmx",
-        "Kanto Routes/Kanto Route 003/Kanto Route 3.tmx",
-        "Kanto Routes/Kanto Route 008/Kanto Route 8 Spring.tmx",
-        "Kanto Routes/Kanto Route 009/Kanto Route 9 Spring.tmx",
         "Kanto Routes/Kanto Route 010/Kanto Route 10 Spring.tmx",
+        "Kanto Routes/Kanto Route 009/Kanto Route 9 Spring.tmx",
+        "Kanto Routes/Kanto Route 008/Kanto Route 8 Spring.tmx",
         "Kanto Routes/Kanto Route 007/Kanto Route 7 Spring.tmx",
         "Kanto Routes/Kanto Route 006/Kanto Route 6 Spring.tmx",
         "Kanto Routes/Kanto Route 005/Kanto Route 5 Spring.tmx",
         "Kanto Routes/Kanto Route 004/Kanto Route 4 Spring.tmx",
-        "Kanto Routes/Kanto Route 001/Kanto Route 1 Winter.tmx",
-        "Kanto Routes/Kanto Route 001/Kanto Route 1 Summer.tmx"
+        "Kanto Routes/Kanto Route 003/Kanto Route 3.tmx",
+        "Kanto Routes/Kanto Route 002/Kanto Route 2.tmx",
+        "Kanto Routes/Kanto Route 001/Kanto Route 1 Spring.tmx",
+        "Kanto Citites/Cerulean City/Cerulean City Spring.tmx"
     ],
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)"
 }

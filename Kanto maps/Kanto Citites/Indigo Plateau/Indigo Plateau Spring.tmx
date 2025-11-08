@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="27" height="20" tilewidth="32" tileheight="32" infinite="0" nextlayerid="8" nextobjectid="1">
- <tileset firstgid="1" source="../../Tilesets/Outside1 Spring.tsx"/>
+ <tileset firstgid="1" source="../../../Tilesets/Outside1 Spring.tsx"/>
  <layer id="1" name="Ground" width="27" height="20" locked="1">
   <data encoding="csv">
 244,245,242,242,243,244,242,246,246,245,246,245,246,246,244,242,242,243,243,244,246,246,245,244,244,242,246,
